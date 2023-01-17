@@ -1,0 +1,5 @@
+test*
+ascii_img.txt
+*.png
+*.jpg
+__pycache__/
